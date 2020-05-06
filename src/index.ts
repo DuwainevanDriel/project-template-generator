@@ -12,7 +12,7 @@ const QUESTIONS = [
 {
     name: 'template',
     type: 'list',
-    message: 'What InfoSlips base template would you like to use?',
+    message: 'What template would you like to use?',
     choices: CHOICES
 },
 {
